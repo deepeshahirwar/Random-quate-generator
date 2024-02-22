@@ -28,21 +28,10 @@ body{
 .wrapper .content{
     margin: 35px 0;
 }  
-.quote-area i{
-    font-size: 15px;
-}
-.quote-area i:first-child{
-    margin:3px 10px 0 0;
-}  
-.quote-area i:last-child{ 
-    display: flex; 
-    align-items: flex-end;
-    margin: 0 0 3px 10px; 
-   
-} 
+
 .quote-area .quote{
     font-size: 22px; 
-    text-align: center;
+    text-align: left;
     word-break: break-all;
 } 
 .content .author{
